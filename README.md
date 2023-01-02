@@ -5,3 +5,9 @@ My pure JS and html todolist app
 - Create a tod item
 - Mark todo as done
 - Delete todo
+
+## Index page
+![index page](./index.png)
+
+## The App UI
+![App](./app.png)
